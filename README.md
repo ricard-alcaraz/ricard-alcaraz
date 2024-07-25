@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricard-alcaraz
-- 👀 I’m interested in Blockchain and Cyber Security
+- 👀 I’m interested in Blockchain and Data Engineering
 - 🌱 I’m currently learning the same things I'm interested
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me ricard.alcarazm@gmail.com
