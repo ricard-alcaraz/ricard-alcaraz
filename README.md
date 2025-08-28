@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ricard-alcaraz
-- 👀 I’m interested in Blockchain and Data Engineering
-- 🌱 I’m currently learning the same things I'm interested
+- 👀 I’m interested in Cybersecurity and Data Engineering
+- 🌱 I’m currently learning Blue Team Cybersecurity and persuing my first certificate on this
 - 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me ricard.alcarazm@gmail.com
+- 📫 How to reach me ricard.alcarazm@gmail.com or ricard@ricard-alcaraz.com
 
 <!---
 ricard-alcaraz/ricard-alcaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
