@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricard-alcaraz
-- 👀 I’m interested in Cybersecurity (PSAA certificate) and Data Engineering (ACE certificate)
-- 🌱 I’m currently learning Blue Team Cybersecurity
+- 👀 I’m interested in Analytics Engineering and Business Analysis
+- 🌱 I’m currently learning about Business Analysis
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me ricard.alcarazm@gmail.com or ricard@ricard-alcaraz.com
 
