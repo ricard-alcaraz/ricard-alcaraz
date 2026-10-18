@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricard-alcaraz
-- 👀 I’m interested in Analytics Engineering and Business Analytics
+- 👀 I’m interested in Data Engineering, Analytics Engineering and Business Analytics
 - 🌱 I’m currently learning about Business Analytics
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me ricard.alcarazm@gmail.com or ricard@ricard-alcaraz.com
